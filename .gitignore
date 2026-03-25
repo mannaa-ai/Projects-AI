@@ -1,0 +1,15 @@
+# Temporary Office files
+~$*
+.~$*
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Common document artifacts
+*.tmp
+*.bak
+
+# Large files (optional, but LFS is better)
+# *.exe
+# *.msi
